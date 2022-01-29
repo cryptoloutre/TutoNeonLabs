@@ -6,8 +6,8 @@ contract token {
     mapping(address => uint) public balances;
     mapping(address => mapping(address => uint)) public allowance;
     uint public totalSupply =  1000000*10**18; //Renseignez la total supply sous la forme : total_supply*10**18
-    string public name = "bc"; //Renseignez le nom
-    string public symbol = "bc"; //Renseignez le symbol
+    string public name = ""; //Renseignez le nom entre les guillemets
+    string public symbol = ""; //Renseignez le symbol entre les guillemets
     uint public decimals =18;
     
     event Transfer(address indexed from, address indexed to, uint value);
