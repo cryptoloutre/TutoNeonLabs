@@ -32,6 +32,6 @@ Rendez-vous sur [Neon Swap](https://neonswap.live/#/get-tokens), connectez votre
   <img src="https://user-images.githubusercontent.com/35653371/151769719-453a8333-5115-44a3-b7a9-c18080c3a91c.png" />
 </p>
 - Validez enfin la transaction
-<p>
+<p align="center">>
   <img src="https://user-images.githubusercontent.com/35653371/151769743-ce7d465d-d2ac-4ff0-8987-f0f825144ab3.png" />
 </p>
