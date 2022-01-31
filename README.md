@@ -10,8 +10,8 @@
 - Approuvez ensuite l'ajout et changez de réseau  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35653371/151769481-4b5e7499-e73d-4bac-8aab-80f1b285ea2f.png" />
+  <img src="https://user-images.githubusercontent.com/35653371/151769538-3f8f816b-2053-4790-a347-a580343cd887.png" />
 </p>
-![image](https://user-images.githubusercontent.com/35653371/151769538-3f8f816b-2053-4790-a347-a580343cd887.png)
 
 
 ## 2- Alimenter votre wallet 
