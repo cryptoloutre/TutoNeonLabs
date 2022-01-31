@@ -1,4 +1,4 @@
-# TutoNeonLabs
+# Tuto Neon Labs: Déployer un smart contract codé en Solidity sur Solana
 
 ## 1- Connecter Metamask au réseau Solana 
 
