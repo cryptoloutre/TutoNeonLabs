@@ -2,8 +2,9 @@
 
 ## 1- Connecter Metamask au réseau Solana 
 
-- Rendez-vous sur [Chainlist](chainlist.org/) et connectez votre wallet
-- Dans la barre de recherche, tapez `Neon`
+- Rendez-vous sur [Chainlist](chainlist.org/) et connectez votre wallet ![image](https://user-images.githubusercontent.com/35653371/151769361-78ad6ef3-ed0b-4450-a1c9-2fc8a82fde85.png)
+
+- Tapez `Neon` dans la barre de recherche
 - Cliquez sur `Add to Metamask` sous `Neon EVM DevNet`. En effet, le Mainnet n'est pas encore live.
 - Approuvez ensuite l'ajout et changez de réseau
 
