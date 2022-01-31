@@ -18,6 +18,6 @@ Rendez-vous sur [Neon Swap](https://neonswap.live/#/get-tokens), connectez votre
 ## 3- Déployer le Smart Contract
 
 - Rendez-vous sur [Remix](https://remix.ethereum.org/). Créez un nouveau fichier et nommez le
-- Codez votre programme dans le fichier créé. Vous pouvez aussi copiez-collez les exemples de codes présent [ici](https://github.com/cryptoloutre/TutoNeonLabs/tree/main/exemples-smart-contract)
+- Codez votre programme dans le fichier créé. Vous pouvez aussi copiez-collez un des exemples de codes présents [ici](https://github.com/cryptoloutre/TutoNeonLabs/tree/main/exemples-smart-contract)
 - Faites `CTRL+S` pour compiler le code
 - Cliquez sur l'icone `deploy and run transactions`, vérifiez que `Injected Web3` soit sélectionné dans `environment` puis cliquez sur `Deploy` et validez la transaction
