@@ -1,6 +1,6 @@
 # TutoNeonLabs
 
-# 1- Connecter Metamask au réseau #Solana 
+## 1- Connecter Metamask au réseau #Solana 
 
 - Rendez-vous sur chainlist.org/ et connectez votre wallet
 - Dans la barre de recherche, tapez "Neon"
@@ -8,12 +8,12 @@
 - Approuvez ensuite l'ajout et changez de réseau
 
 
-#titre 2- Alimenter votre wallet 
+## 2- Alimenter votre wallet 
 
 Rendez-vous sur https://neonswap.live/#/get-tokens, connectez votre wallet, renseignez le nombre de tokens désirés puis cliquez sur "get tokens".
 
 
-#titre 3- Déployer le Smart Contract
+## 3- Déployer le Smart Contract
 
 - Rendez-vous sur remix.ethereum.org/. Créez un nouveau fichier et nommez le
 - Allez sur https://github.com/cryptoloutre/TutoNeonLabs/blob/main/Hello_world, copiez le code puis collez le dans le fichier créé
