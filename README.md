@@ -2,7 +2,7 @@
 
 ## 1- Connecter Metamask au réseau Solana 
 
-- Rendez-vous sur [Chainlist](chainlist.org/) et connectez votre wallet ![image](https://user-images.githubusercontent.com/35653371/151769361-78ad6ef3-ed0b-4450-a1c9-2fc8a82fde85.png)
+- Rendez-vous sur [Chainlist](chainlist.org/) et connectez votre wallet  ![image](https://user-images.githubusercontent.com/35653371/151769361-78ad6ef3-ed0b-4450-a1c9-2fc8a82fde85.png)
 
 - Tapez `Neon` dans la barre de recherche 
 
@@ -16,17 +16,17 @@
 
 ## 2- Alimenter votre wallet 
 
-Rendez-vous sur [Neon Swap](https://neonswap.live/#/get-tokens), connectez votre wallet, renseignez le nombre de tokens désirés puis cliquez sur `get tokens`. ![image](https://user-images.githubusercontent.com/35653371/151769572-5035388f-4290-4a4e-b9d2-1242e6e1f008.png)
+Rendez-vous sur [Neon Swap](https://neonswap.live/#/get-tokens), connectez votre wallet, renseignez le nombre de tokens désirés puis cliquez sur `get tokens`.  ![image](https://user-images.githubusercontent.com/35653371/151769572-5035388f-4290-4a4e-b9d2-1242e6e1f008.png)
 
 
 
 
 ## 3- Déployer le Smart Contract
 
-- Rendez-vous sur [Remix](https://remix.ethereum.org/). Créez un nouveau fichier et nommez le ![image](https://user-images.githubusercontent.com/35653371/151769646-e543afa6-ef11-41ca-ad60-9d5eec98078b.png)
+- Rendez-vous sur [Remix](https://remix.ethereum.org/). Créez un nouveau fichier et nommez le  ![image](https://user-images.githubusercontent.com/35653371/151769646-e543afa6-ef11-41ca-ad60-9d5eec98078b.png)
 
 - Codez votre programme dans le fichier créé. Vous pouvez aussi copiez-collez un des exemples de codes présents [ici](https://github.com/cryptoloutre/TutoNeonLabs/tree/main/exemples-smart-contract)
 - Faites `CTRL+S` pour compiler le code
-- Cliquez sur l'icone `deploy and run transactions`, vérifiez que `Injected Web3` soit sélectionné dans `environment` puis cliquez sur `Deploy` et validez la transaction ![image](https://user-images.githubusercontent.com/35653371/151769719-453a8333-5115-44a3-b7a9-c18080c3a91c.png)
+- Cliquez sur l'icone `deploy and run transactions`, vérifiez que `Injected Web3` soit sélectionné dans `environment` puis cliquez sur `Deploy` et validez la transaction  ![image](https://user-images.githubusercontent.com/35653371/151769719-453a8333-5115-44a3-b7a9-c18080c3a91c.png)
 ![image](https://user-images.githubusercontent.com/35653371/151769743-ce7d465d-d2ac-4ff0-8987-f0f825144ab3.png)
 
