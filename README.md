@@ -1,6 +1,6 @@
 # TutoNeonLabs
 
-#titre 1- Connecter Metamask au réseau #Solana 
+# 1- Connecter Metamask au réseau #Solana 
 
 - Rendez-vous sur chainlist.org/ et connectez votre wallet
 - Dans la barre de recherche, tapez "Neon"
