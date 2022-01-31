@@ -27,6 +27,8 @@ Rendez-vous sur [Neon Swap](https://neonswap.live/#/get-tokens), connectez votre
 
 - Codez votre programme dans le fichier créé. Vous pouvez aussi copiez-collez un des exemples de codes présents [ici](https://github.com/cryptoloutre/TutoNeonLabs/tree/main/exemples-smart-contract)
 - Faites `CTRL+S` pour compiler le code
-- Cliquez sur l'icone `deploy and run transactions`, vérifiez que `Injected Web3` soit sélectionné dans `environment` puis cliquez sur `Deploy` et validez la transaction  ![image](https://user-images.githubusercontent.com/35653371/151769719-453a8333-5115-44a3-b7a9-c18080c3a91c.png)
-![image](https://user-images.githubusercontent.com/35653371/151769743-ce7d465d-d2ac-4ff0-8987-f0f825144ab3.png)
-
+- Cliquez sur l'icone `deploy and run transactions`, vérifiez que `Injected Web3` soit sélectionné dans `environment` puis cliquez sur `Deploy` et validez la transaction  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35653371/151769719-453a8333-5115-44a3-b7a9-c18080c3a91c.png" />
+  <img src="https://user-images.githubusercontent.com/35653371/151769743-ce7d465d-d2ac-4ff0-8987-f0f825144ab3.png" />
+</p>
